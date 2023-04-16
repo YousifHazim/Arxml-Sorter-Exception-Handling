@@ -4,7 +4,7 @@ The program can read and reorder containers in an ARXML files.
 
 ARXML stands for Autosar XML which is a format used by AUTOSAR (Automotive Open System Architecture).
 
-# Description
+## Description
 
 The program should perform the following steps:
 
@@ -12,7 +12,7 @@ The program should perform the following steps:
 
 • Reorder the containers alphabetically by their name sub-container “SHORT-NAME”.
 
-# Requirements
+## Requirements
 
 • The name of the arxml file shall be an argument which needs to passed through the command line.
 
@@ -24,7 +24,7 @@ The program should perform the following steps:
 
 • If any requirement is missing or unclear, you should make reasonable assumptions and document them in your code.
 
-# Files Description
+## Files Description
 
 • ArxmlSorter.java: This is the main class for the programe.
 
